@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClusterMissile", "ClusterMissile\ClusterMissile.csproj", "{5F4F73F1-35D9-41A1-83AA-B8106AEDCE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F4F73F1-35D9-41A1-83AA-B8106AEDCE54}.Debug|x64.ActiveCfg = Debug|x64
+		{5F4F73F1-35D9-41A1-83AA-B8106AEDCE54}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A3B95DC-E389-43D6-B322-99C2B971B21C}
+	EndGlobalSection
+EndGlobal
