@@ -9,3 +9,7 @@ Currently I'm work on implementing a LIDAR radar for automatic target detection 
 You can check out two short posts on this missile that I've made on reddit: <br />
 1. https://www.reddit.com/r/spaceengineers/comments/1bqw29b/the_very_first_alpha_test_of_my_new_cluster/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 2. https://www.reddit.com/r/spaceengineers/comments/1bu6m9p/been_working_on_some_trajectory_prediction/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+![Demo](cluster4.gif)
+![Demo](cluster3.gif)
+![Demo](cluster2.gif)
+![Demo](cluster1.gif)
