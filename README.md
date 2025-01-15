@@ -1,7 +1,6 @@
 This a custom-made missile script for the game Space Engineers. <br />
-It works coupled with a missile of my own design, which in short is a cluster missile that you can find in real life. <br />
-I've tried really hard to have the missile fit in the smallest size format possible, while maximizing the ammount of bombs it carries. <br />
-The missile is still WIP, as of now it can currently only hit targets at the provided GPS coordinates. I've however implemented already other mechanics such as: <br />
+It works coupled with a missile of my own design, which in short is a cluster bomb which based on examples from real life. <br />
+The missile is currently WIP, as of now it can currently only hit targets at the provided GPS coordinates. Currently there also implementations of mechanism such as: <br />
 - Proportional navigation
 - Bomb trajectory simulation and prediction
 - PID controlled bomb trajectory correction
